@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "uhh")(type "KiCad")(uri "${KIPRJMOD}/openstereo.pretty")(options "")(descr ""))
+)

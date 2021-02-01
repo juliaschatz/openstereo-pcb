@@ -1,0 +1,7 @@
+(sym_lib_table
+  (lib (name "openstereo")(type "Legacy")(uri "${KIPRJMOD}/openstereo.lib")(options "")(descr ""))
+  (lib (name "magjack")(type "Legacy")(uri "${KIPRJMOD}/magjack.lib")(options "")(descr ""))
+  (lib (name "LM2677")(type "Legacy")(uri "${KIPRJMOD}/symbols/LM22677.lib")(options "")(descr ""))
+  (lib (name "openstereo2")(type "KiCad")(uri "${KIPRJMOD}/openstereo.kicad_sym")(options "")(descr ""))
+  (lib (name "lm76202")(type "KiCad")(uri "${KIPRJMOD}/symbols/lm76202.kicad_sym")(options "")(descr ""))
+)
